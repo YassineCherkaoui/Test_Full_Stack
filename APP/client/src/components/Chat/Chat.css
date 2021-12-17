@@ -1,0 +1,67 @@
+.outerContainer {
+  position: relative;
+  justify-content: left;
+  padding-left: 20px;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background-color: hsl(226, 100%, 50%);
+  overflow: auto;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #FFFFFF;
+  border-radius: 8px;
+  /* height: 60%; */
+  width: 20%;
+  margin-left: auto;
+}
+
+.game {
+  color: white;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+}
+
+.table {
+  height: 458px;
+  width: 100%;
+  margin-left: 61%;
+}
+
+.mainPlayer {
+  position: inherit;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .outerContainer {
+    height: 100%;
+  }
+
+  .container {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.h1_casino{
+  text-align: -webkit-center;
+  margin-left: 75%;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+
+
+
+
+
+@media (max-width: 1000px) {
+  .container {
+    display: none;
+  }
+}
