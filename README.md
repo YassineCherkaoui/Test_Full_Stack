@@ -54,6 +54,7 @@
 ## À propos du projet
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot_2]](https://example.com)
 
 Nous sommes au Ceasar Palace casino à Las Vegas, assis à une table spéciale.
 But du jeu : piocher le plus de paires.
@@ -219,17 +220,13 @@ Lien du projet: [https://github.com/YassineCherkaoui/Test_Full_Stack](https://gi
 <p align="right">(<a href="#top">retour au sommet</a>)</p>
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/YassineCherkaoui/Test_Full_Stack/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/YassineCherkaoui/Test_Full_Stack/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/YassineCherkaoui/Test_Full_Stack/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/YassineCherkaoui/Test_Full_Stack/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/YassineCherkaoui/Test_Full_Stack/blob/master/LICENSE.txt
+[license-url]: https://github.com/YassineCherkaoui/Test_Full_Stack/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/cherkaouiya
 [product-screenshot]: Screenshots/login_Page.png
 [product-screenshot_2]: Screenshots/Game_Page.png
